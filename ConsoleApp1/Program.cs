@@ -14,7 +14,7 @@ namespace ConsoleApp1
             while (true)
             {
                 Console.Clear();
-                Console.WriteLine("Введите А\nВведите Б\nСложение\nВычитание\nУмножение\nДеление");
+                Console.WriteLine("1-Введите А\n2-Введите Б\n3-Сложение\n4-Вычитание\n5-Умножение\n6-Деление");
                 vvod = Convert.ToInt32(Console.ReadLine());
 
                 if(vvod ==1) { a = int.Parse(Console.ReadLine()); }
