@@ -23,7 +23,7 @@ namespace ConsoleApp1
 
                 if (vvod == 2) { b = int.Parse(Console.ReadLine()); }
 
-
+                if (vvod == 3) { Console.WriteLine(a+b); }
 
 
 
@@ -33,6 +33,5 @@ namespace ConsoleApp1
                 Console.ReadKey();
             }
         }
-
     }
 }
