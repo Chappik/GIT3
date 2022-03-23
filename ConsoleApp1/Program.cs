@@ -18,10 +18,11 @@ namespace ConsoleApp1
                 vvod = Convert.ToInt32(Console.ReadLine());
 
 
-
+                if (vvod == 3) { Console.WriteLine(a+b); }
 
 
 
             }
         }
+    }
 }
