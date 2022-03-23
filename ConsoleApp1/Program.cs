@@ -33,6 +33,7 @@ namespace ConsoleApp1
                 if (vvod == 6) { Console.WriteLine(a / b); }
                 Console.ReadKey();
 
+
                
 
               
